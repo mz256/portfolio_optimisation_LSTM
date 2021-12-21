@@ -1,1 +1,2 @@
-# portfolio_optimisation_LSTM
+# Deep Learning for portfolio optimisation
+
